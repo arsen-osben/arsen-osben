@@ -13,7 +13,7 @@
   <li>Design tools: Figma / Adobe Photoshop / Adobe XD / Sketch </li>
 </ul>
 
-<div class="b-linkedin><a href="https://www.linkedin.com/in/artur-protzenko">LinkedIn Profile</a></div>
+<div class="b-linkedin><a href="https://www.linkedin.com/in/artur-protzenko">https://www.linkedin.com/in/artur-protzenko</a></div>
                                                                             
 
 <!--
