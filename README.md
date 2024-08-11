@@ -1,4 +1,4 @@
-<div class="b-cv-title">Artur Protzenko - Markup/Front-End Developer</div>
+<div class="b-cv-title">Artur Protsenko - Markup/Front-End Developer</div>
 <h3>What I do</h3>
 <ul class="b-simp-list">
   <li>Pixel perfect translation of UI designs into HTML/CSS</li>
@@ -9,11 +9,12 @@
 <ul class="b-simp-list">
   <li>Languages: HTML, CSS (SCSS), JavaScript</li>
   <li>Libraries: JQuery, Bootstrap</li>
+  <li>Framework: Angular</li>
   <li>Tools: Git, Node.js, Webpack</li>
   <li>Design tools: Figma / Adobe Photoshop / Adobe XD / Sketch </li>
 </ul>
 
-<div class="b-linkedin><a href="https://www.linkedin.com/in/artur-protzenko">https://www.linkedin.com/in/artur-protzenko</a></div>
+<div class="b-linkedin><a href="https://www.linkedin.com/in/artur-protsenko">https://www.linkedin.com/in/artur-protsenko</a></div>
                                                                             
 
 <!--
